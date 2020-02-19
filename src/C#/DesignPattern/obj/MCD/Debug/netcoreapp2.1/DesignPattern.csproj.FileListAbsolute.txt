@@ -1,0 +1,11 @@
+D:\Daten\Coding\Git\Repositorys\design_patterns\src\C#\DesignPattern\bin\MCD\Debug\netcoreapp2.1\DesignPattern.deps.json
+D:\Daten\Coding\Git\Repositorys\design_patterns\src\C#\DesignPattern\bin\MCD\Debug\netcoreapp2.1\DesignPattern.runtimeconfig.json
+D:\Daten\Coding\Git\Repositorys\design_patterns\src\C#\DesignPattern\bin\MCD\Debug\netcoreapp2.1\DesignPattern.runtimeconfig.dev.json
+d:\Daten\Coding\Git\Repositorys\design_patterns\src\C#\DesignPattern\bin\MCD\Debug\netcoreapp2.1\DesignPattern.dll
+d:\Daten\Coding\Git\Repositorys\design_patterns\src\C#\DesignPattern\bin\MCD\Debug\netcoreapp2.1\DesignPattern.pdb
+d:\Daten\Coding\Git\Repositorys\design_patterns\src\C#\DesignPattern\obj\MCD\Debug\netcoreapp2.1\DesignPattern.csprojAssemblyReference.cache
+d:\Daten\Coding\Git\Repositorys\design_patterns\src\C#\DesignPattern\obj\MCD\Debug\netcoreapp2.1\DesignPattern.csproj.CoreCompileInputs.cache
+d:\Daten\Coding\Git\Repositorys\design_patterns\src\C#\DesignPattern\obj\MCD\Debug\netcoreapp2.1\DesignPattern.AssemblyInfoInputs.cache
+d:\Daten\Coding\Git\Repositorys\design_patterns\src\C#\DesignPattern\obj\MCD\Debug\netcoreapp2.1\DesignPattern.AssemblyInfo.cs
+d:\Daten\Coding\Git\Repositorys\design_patterns\src\C#\DesignPattern\obj\MCD\Debug\netcoreapp2.1\DesignPattern.dll
+d:\Daten\Coding\Git\Repositorys\design_patterns\src\C#\DesignPattern\obj\MCD\Debug\netcoreapp2.1\DesignPattern.pdb
