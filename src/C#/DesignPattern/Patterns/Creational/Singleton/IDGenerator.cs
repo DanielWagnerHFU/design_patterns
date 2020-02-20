@@ -9,11 +9,11 @@ namespace DesignPattern.Creational.Singleton
     public sealed class IDGenerator
 
     {
-        private static readonly Lazy<IDGenerator> lazy = new Lazy<IDGenerator>(() => new IDGenerator());
+        private static readonly Lazy<IDGenerator> _lazy = new Lazy<IDGenerator>(() => new IDGenerator());
 
         public static IDGenerator Instance
         {
-            get { return lazy.Value; }
+            get { return _lazy.Value; }
         }
 
         private IDGenerator()

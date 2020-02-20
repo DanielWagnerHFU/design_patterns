@@ -7,8 +7,8 @@ namespace DesignPattern.Creational.Singleton
     /// </summary>
     public sealed class SingletonThreadSafe
     {
-        private static SingletonThreadSafe instance = null;
-        private static readonly object padlock = new object();
+        private static SingletonThreadSafe _instance = null;
+        private static readonly object _padlock = new object();
 
         private SingletonThreadSafe()
         {
@@ -18,13 +18,13 @@ namespace DesignPattern.Creational.Singleton
         {
             get
             {
-                lock (padlock)
+                lock (_padlock)
                 {
-                    if (instance == null)
+                    if (_instance == null)
                     {
-                        instance = new SingletonThreadSafe();
+                        _instance = new SingletonThreadSafe();
                     }
-                    return instance;
+                    return _instance;
                 }
             }
         }

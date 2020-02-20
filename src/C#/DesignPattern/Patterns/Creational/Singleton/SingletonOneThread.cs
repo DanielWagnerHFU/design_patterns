@@ -8,7 +8,7 @@ namespace DesignPattern.Creational.Singleton
     /// </summary>
     public sealed class SingletonOneThread
     {
-        private static SingletonOneThread instance = null;
+        private static SingletonOneThread _instance = null;
 
         private SingletonOneThread()
         {
@@ -18,11 +18,11 @@ namespace DesignPattern.Creational.Singleton
         {
             get
             {
-                if (instance == null)
+                if (_instance == null)
                 {
-                    instance = new SingletonOneThread();
+                    _instance = new SingletonOneThread();
                 }
-                return instance;
+                return _instance;
             }
         }
     }
