@@ -5,10 +5,9 @@ using System.Threading;
 namespace DesignPattern.Behavioral.Observer.Observer3
 {
     /// <summary>
-    /// This class represents a simple subject which can change its number
+    /// This class represents a simple subject
     /// </summary>
     public class ConcreteSubject : Observable<ConcreteSubject>
     {
-
     }
 }
