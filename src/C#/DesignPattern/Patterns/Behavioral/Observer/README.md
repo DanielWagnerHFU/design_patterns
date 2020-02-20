@@ -38,3 +38,11 @@ interested in
 ### Observer1 - Simple implementation
 
 This template showcases a really simple way to implement the Observer in C# using two interfaces.
+
+### Observer2 - implementation using generics
+
+This template showcases a way to implement the observer pattern using generics (as the type for the information which can be passed to the observers)
+
+### Observer3 - Simple implementation
+
+This template showcases a way to implement the oberserver by using a abstract class to seperate class logic and funcionality of the observer pattern. Only use this when you wont get into trouble because you want to extend the class from other classes. C# doesnt support multiple inheritance.
