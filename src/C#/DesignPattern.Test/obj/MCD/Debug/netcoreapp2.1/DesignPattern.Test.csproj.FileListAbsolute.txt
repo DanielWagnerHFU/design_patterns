@@ -1,0 +1,17 @@
+D:\Daten\Coding\Git\Repositorys\design_patterns\src\C#\DesignPattern.Test\bin\MCD\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\Daten\Coding\Git\Repositorys\design_patterns\src\C#\DesignPattern.Test\bin\MCD\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+D:\Daten\Coding\Git\Repositorys\design_patterns\src\C#\DesignPattern.Test\bin\MCD\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+D:\Daten\Coding\Git\Repositorys\design_patterns\src\C#\DesignPattern.Test\bin\MCD\Debug\netcoreapp2.1\DesignPattern.Test.deps.json
+D:\Daten\Coding\Git\Repositorys\design_patterns\src\C#\DesignPattern.Test\bin\MCD\Debug\netcoreapp2.1\DesignPattern.Test.runtimeconfig.json
+D:\Daten\Coding\Git\Repositorys\design_patterns\src\C#\DesignPattern.Test\bin\MCD\Debug\netcoreapp2.1\DesignPattern.Test.runtimeconfig.dev.json
+D:\Daten\Coding\Git\Repositorys\design_patterns\src\C#\DesignPattern.Test\bin\MCD\Debug\netcoreapp2.1\DesignPattern.Test.dll
+D:\Daten\Coding\Git\Repositorys\design_patterns\src\C#\DesignPattern.Test\bin\MCD\Debug\netcoreapp2.1\DesignPattern.Test.pdb
+D:\Daten\Coding\Git\Repositorys\design_patterns\src\C#\DesignPattern.Test\bin\MCD\Debug\netcoreapp2.1\DesignPattern.dll
+D:\Daten\Coding\Git\Repositorys\design_patterns\src\C#\DesignPattern.Test\bin\MCD\Debug\netcoreapp2.1\DesignPattern.pdb
+D:\Daten\Coding\Git\Repositorys\design_patterns\src\C#\DesignPattern.Test\obj\MCD\Debug\netcoreapp2.1\DesignPattern.Test.csprojAssemblyReference.cache
+D:\Daten\Coding\Git\Repositorys\design_patterns\src\C#\DesignPattern.Test\obj\MCD\Debug\netcoreapp2.1\DesignPattern.Test.csproj.CoreCompileInputs.cache
+D:\Daten\Coding\Git\Repositorys\design_patterns\src\C#\DesignPattern.Test\obj\MCD\Debug\netcoreapp2.1\DesignPattern.Test.AssemblyInfoInputs.cache
+D:\Daten\Coding\Git\Repositorys\design_patterns\src\C#\DesignPattern.Test\obj\MCD\Debug\netcoreapp2.1\DesignPattern.Test.AssemblyInfo.cs
+D:\Daten\Coding\Git\Repositorys\design_patterns\src\C#\DesignPattern.Test\obj\MCD\Debug\netcoreapp2.1\DesignPattern.Test.csproj.CopyComplete
+D:\Daten\Coding\Git\Repositorys\design_patterns\src\C#\DesignPattern.Test\obj\MCD\Debug\netcoreapp2.1\DesignPattern.Test.dll
+D:\Daten\Coding\Git\Repositorys\design_patterns\src\C#\DesignPattern.Test\obj\MCD\Debug\netcoreapp2.1\DesignPattern.Test.pdb

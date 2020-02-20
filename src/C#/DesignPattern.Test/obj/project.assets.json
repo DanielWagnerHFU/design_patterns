@@ -1673,6 +1673,19 @@
         "build": {
           "build/netcoreapp1.0/xunit.runner.visualstudio.props": {}
         }
+      },
+      "DesignPattern/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.1",
+        "dependencies": {
+          "Microsoft.NETCore.App": "2.1.0"
+        },
+        "compile": {
+          "bin/placeholder/DesignPattern.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DesignPattern.dll": {}
+        }
       }
     }
   },
@@ -5843,10 +5856,16 @@
         "xunit.runner.visualstudio.2.4.0.nupkg.sha512",
         "xunit.runner.visualstudio.nuspec"
       ]
+    },
+    "DesignPattern/1.0.0": {
+      "type": "project",
+      "path": "../DesignPattern/DesignPattern.csproj",
+      "msbuildProject": "../DesignPattern/DesignPattern.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.1": [
+      "DesignPattern >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 15.9.0",
       "Microsoft.NETCore.App >= 2.1.0",
       "xunit >= 2.4.0",
@@ -5880,7 +5899,11 @@
       },
       "frameworks": {
         "netcoreapp2.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\Daten\\Coding\\Git\\Repositorys\\design_patterns\\src\\C#\\DesignPattern\\DesignPattern.csproj": {
+              "projectPath": "D:\\Daten\\Coding\\Git\\Repositorys\\design_patterns\\src\\C#\\DesignPattern\\DesignPattern.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
