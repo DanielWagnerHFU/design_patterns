@@ -28,13 +28,14 @@ Please make sure to update tests as appropriate.
 | Name      | Description                                                                       | C# | Java | C++ |
 |-----------|-----------------------------------------------------------------------------------|----|------|-----|
 |           |                                                                                   |    |      |     |
-|           |                                                                                   |    |      |     |
+|           |                                                                                   |    |      |     |             
 
 ### Behavioral patterns
 
 | Name      | Description                                                                       | C# | Java | C++ |
 |-----------|-----------------------------------------------------------------------------------|----|------|-----|
-| Observer  | Define a one-to-many dependency between objects where a state change in one object results in all its dependents being notified and updated automatically.| 1 | 0 | 0 |
+| Observer  | Define a one-to-many dependency between objects where a state change in one 
+object results in all its dependents being notified and updated automatically.                  | 1  | 0    | 0   |
 |           |                                                                                   |    |      |     |
 
 ### Concurrency patterns
