@@ -10,7 +10,7 @@ namespace DesignPattern.Test
         public void ObserverTest1()
         {
             ConcreteSubject subject = new ConcreteSubject();
-            ConcreteObserver1 observer1 = new ConcreteObserver();
+            ConcreteObserver observer1 = new ConcreteObserver();
             subject.Attach(observer1);
             Assert.True(observer1.Notified == 0);
         }
@@ -19,7 +19,7 @@ namespace DesignPattern.Test
         public void ObserverTest2()
         {
             ConcreteSubject subject = new ConcreteSubject();
-            ConcreteObserver1 observer1 = new ConcreteObserver();
+            ConcreteObserver observer1 = new ConcreteObserver();
             subject.Attach(observer1);
             subject.Notify();
             Assert.True(observer1.Notified == 1);
@@ -29,8 +29,8 @@ namespace DesignPattern.Test
         public void ObserverTest3()
         {
             ConcreteSubject subject = new ConcreteSubject();
-            ConcreteObserver1 observer1 = new ConcreteObserver();
-            ConcreteObserver1 observer2 = new ConcreteObserver();
+            ConcreteObserver observer1 = new ConcreteObserver();
+            ConcreteObserver observer2 = new ConcreteObserver();
             subject.Attach(observer1);
             subject.Notify();
             subject.Attach(observer2);
