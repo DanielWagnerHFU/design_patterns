@@ -9,7 +9,7 @@ namespace DesignPattern.Behavioral.Observer.Observer1
     {
         public int Notified{ get; set; } = 0;
 
-        public void Update(ISubject subject)
+        public void Update(IObservable subject)
         {
             Notified++;
         }

@@ -7,7 +7,7 @@ namespace DesignPattern.Behavioral.Observer.Observer1
     /// <summary>
     /// This class represents a simple subject without any other purpose.
     /// </summary>
-    public class ConcreteSubject : ISubject
+    public class ConcreteSubject : IObservable
     {
         private List<IObserver> _observers = new List<IObserver>();
 

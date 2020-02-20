@@ -5,7 +5,7 @@ namespace DesignPattern.Behavioral.Observer.Observer1
     /// <summary>
     /// This interface provides methods for a subject
     /// </summary>
-    public interface ISubject
+    public interface IObservable
     {
         void Attach(IObserver observer);
 

@@ -7,6 +7,6 @@ namespace DesignPattern.Behavioral.Observer.Observer1
     /// </summary>
     public interface IObserver
     {
-        void Update(ISubject subject);
+        void Update(IObservable subject);
     }
 }
