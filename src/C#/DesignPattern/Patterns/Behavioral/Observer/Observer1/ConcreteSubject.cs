@@ -23,7 +23,7 @@ namespace DesignPattern.Behavioral.Observer.Observer1
 
         public void Notify()
         {
-            foreach (var observer in _observers)
+            foreach (IObserver observer in _observers)
             {
                 observer.Update(this);
             }
