@@ -26,7 +26,7 @@ namespace DesignPattern.Creational.Builder.Builder1
 
             str = str.Remove(str.Length - 2);
 
-            return "Product parts: " + str + "\n";
+            return "Product parts: " + str;
         }
     }
 }
