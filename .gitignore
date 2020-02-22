@@ -3,6 +3,7 @@
 .vscode
 *.code-workspace
 *.sln
+*.csproj
 
 #C++
 # Prerequisites
