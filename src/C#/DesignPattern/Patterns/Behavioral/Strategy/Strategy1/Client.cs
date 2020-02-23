@@ -14,6 +14,11 @@ namespace DesignPattern.Behavioral.Strategy.Strategy1
             set { _strategy = value; }
         }
 
+        public Client(IStrategy strategy)
+        {
+            _strategy = strategy;
+        }
+
         public string CallAlgorithm()
         {
             return _strategy.Algorithm();
